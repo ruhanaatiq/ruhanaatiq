@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://github.com/ruhanaatiq/ruhanaatiq/blob/main/155872-github-logo-azure-aqua-turquoise-1920x1080.png">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ruhana Atiq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruhana.atiq@gmail.com) 
